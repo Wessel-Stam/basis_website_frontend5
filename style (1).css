@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+
+
+.container{
+    position: absolute;
+    top: 40%;
+}
+
+.author{
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.title{
+    padding-left: 50px;
+    font-size: 30px;
+}
+.description{
+    padding-left: 50px;
+}
+.url{
+    padding-left: 50px;
+}
+.urltoimage{
+    width: 20%;
+    padding-left: 50px;
+}
+.publishedAt{
+    padding-left: 50px;
+}
+.content{
+    padding-left: 50px;
+}
